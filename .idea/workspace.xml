@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3b78aee-0a41-4433-869e-2d6c47da05f2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Perceptron/Perceptron.iml" afterPath="$PROJECT_DIR$/Perceptron/Perceptron.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Perceptron/src/Perceptron.java" afterPath="$PROJECT_DIR$/Perceptron/src/Perceptron.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Perceptron/src/Solver.java" afterPath="$PROJECT_DIR$/Perceptron/src/Solver.java" />
-    </list>
+    <list default="true" id="a3b78aee-0a41-4433-869e-2d6c47da05f2" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -266,12 +259,12 @@
       <option name="presentableId" value="Default" />
       <updated>1509646679195</updated>
       <workItem from="1509646680563" duration="53000" />
-      <workItem from="1509646737026" duration="6579000" />
+      <workItem from="1509646737026" duration="6656000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6632000" />
+    <option name="totallyTimeSpent" value="6709000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
